@@ -1,0 +1,6 @@
+{
+  "name": "socialapp",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
